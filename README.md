@@ -25,6 +25,8 @@ From the repository root:
 dart run list_map.dart
 ```
 
+
+
 or
 
 ```bash
@@ -62,3 +64,9 @@ void main() {
 
 - Official Dart website: https://dart.dev
 - Dart language tour: https://dart.dev/guides/language/language-tour
+
+
+### Screenshots  
+
+<img width="1316" height="944" alt="Screenshot 2026-06-01 142452" src="https://github.com/user-attachments/assets/3ba00672-19f7-4f6b-b4e3-a0ffcd846bd5" />
+
